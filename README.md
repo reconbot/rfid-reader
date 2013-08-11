@@ -1,4 +1,4 @@
-## Read data off the Paralax RFID Card Reader Serial.
+## Read data off the Paralax RFID Card Reader Serial with Nodejs.
 
 This takes data from the paralax rfid reader using a ttl cable, reading 6 bits at a time.
 
