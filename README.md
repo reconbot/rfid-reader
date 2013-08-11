@@ -3,6 +3,7 @@
 This takes data from the paralax rfid reader using a ttl cable, reading 6 bits at a time.
 
 ![Paralax RFID Card Reader Serial](https://raw.github.com/reconbot/rfid-reader/master/28140-M.jpg)
+![Paralax RFID Card Reader Demo](https://raw.github.com/reconbot/rfid-reader/master/paralax-rfid-reader.jpg)
 
  - A product page that I couldn't find more usless http://www.parallax.com/tabid/768/ProductID/114/Default.aspx (it does have some tech specs - like this reads "125 kHz Tags, EM41000 Family")
  - Good notes on serial cables http://www.zytrax.com/tech/layer_1/cables/heavy.htm
