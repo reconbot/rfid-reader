@@ -1,5 +1,7 @@
 ## Read data off the Paralax RFID Card Reader Serial with Nodejs.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/rfid-reader.svg)](https://greenkeeper.io/)
+
 This takes data from the paralax rfid reader using a ttl cable, reading 6 bits at a time.
 
 ![Paralax RFID Card Reader Serial](https://raw.github.com/reconbot/rfid-reader/master/28140-M.jpg)
